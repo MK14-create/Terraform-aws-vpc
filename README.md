@@ -35,6 +35,9 @@ Output Format
 ** Destroy Infrastructure**
 To remove all resources created by Terraform: terraform destroy
 
+<img width="589" height="155" alt="image" src="https://github.com/user-attachments/assets/a2986307-f483-4654-bfe3-f4d8305ed554" />
+
+
 
 **📖 Terraform Files**
 provider.tf
