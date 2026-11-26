@@ -7,12 +7,12 @@ This Terraform project automates the deployment of AWS networking infrastructure
 
 The infrastructure includes:
 
-Custom VPC
-Public and Private Subnets
-Internet Gateway (IGW)
-Route Tables
-Route Table Associations
-Network Routing Configuration
+1) Custom VPC
+2) Subnets
+3) Internet Gateway (IGW)
+4) Route Tables
+5) Route Table Associations
+6) Network Routing Configuration
 
 Using Infrastructure as Code (IaC), this project enables consistent, repeatable, and automated provisioning of AWS network resources. The configuration follows Terraform best practices and can be easily modified to support different environments and networking requirements.
 
