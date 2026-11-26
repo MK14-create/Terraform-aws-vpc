@@ -67,7 +67,7 @@ Version control using Git an* GitHub
 
 
 👨‍💻 Author
-*Kiran edini
+: Kiran medini
 
 
 
