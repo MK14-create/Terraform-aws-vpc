@@ -3,7 +3,20 @@
 This project provisions an AWS Virtual Private Cloud (VPC) using Terraform Infrastructure as Code (IaC).
 
 **Overview**
-The purpose of this project is to automate the creation of AWS networking resources using Terraform. The configuration demonstrates how to define cloud infrastructure in code and manage it through version control.
+This Terraform project automates the deployment of AWS networking infrastructure by creating a Virtual Private Cloud (VPC) along with its associated networking components.
+
+The infrastructure includes:
+
+Custom VPC
+Public and Private Subnets
+Internet Gateway (IGW)
+Route Tables
+Route Table Associations
+Network Routing Configuration
+
+Using Infrastructure as Code (IaC), this project enables consistent, repeatable, and automated provisioning of AWS network resources. The configuration follows Terraform best practices and can be easily modified to support different environments and networking requirements.
+
+This project is ideal for learning Terraform fundamentals, AWS networking concepts, and Infrastructure as Code workflows.
 
 ✅ Prerequisites
 Before running this project, ensure the following are installed:
